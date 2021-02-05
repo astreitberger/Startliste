@@ -7,7 +7,7 @@ namespace Startlist
 {
     static void Main(string[] args)
     {​​
-        //Gemeinsam mit Johanna Innerhofer
+        //Gemeinsam mit Johanna 
         {​​
             List<IStartliste> Startliste = new List<IStartliste>();
 
