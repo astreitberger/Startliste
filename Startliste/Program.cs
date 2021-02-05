@@ -8,8 +8,8 @@ namespace Startlist
     class Program
     {
         static void Main(string[] args)
-        {​​
-        //Gemeinsam mit Johanna 
+        { 
+            //Gemeinsam mit Johanna 
             List<IStartliste> Startliste = new List<IStartliste>();
 
 
@@ -41,5 +41,5 @@ namespace Startlist
             }
         }
     }
-    
+
 }

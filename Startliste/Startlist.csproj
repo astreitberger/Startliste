@@ -11,7 +11,6 @@
 
   <ItemGroup>
     <PackageReference Include="sqlite-net-sqlcipher" Version="1.7.335" />
-    <PackageReference Include="System.Linq" Version="4.3.0" />
   </ItemGroup>
 
 </Project>
