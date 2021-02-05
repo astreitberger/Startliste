@@ -5,10 +5,11 @@ using System.Text;
 
 namespace Startlist
 {
-    static void Main(string[] args)
-    {​​
-        //Gemeinsam mit Johanna 
+    class Program
+    {
+        static void Main(string[] args)
         {​​
+        //Gemeinsam mit Johanna 
             List<IStartliste> Startliste = new List<IStartliste>();
 
 
@@ -19,7 +20,7 @@ namespace Startlist
 
             while (Zahl < 0)
             {​​
-                var Startnummer = Zahl;
+                    var Startnummer = Zahl;
                 Console.Write("Vorname: ");
                 var Vorname = Console.ReadLine();
                 Console.Write("Nachname: ");
@@ -40,4 +41,5 @@ namespace Startlist
             }
         }
     }
+    
 }

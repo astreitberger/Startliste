@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FW\\Documents\\2020-2021\\GITHUB\\Startlist\\Startliste\\Startlist.csproj": {}
+    "C:\\Users\\prasser\\Desktop\\Startliste\\Startliste\\Startlist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FW\\Documents\\2020-2021\\GITHUB\\Startlist\\Startliste\\Startlist.csproj": {
+    "C:\\Users\\prasser\\Desktop\\Startliste\\Startliste\\Startlist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FW\\Documents\\2020-2021\\GITHUB\\Startlist\\Startliste\\Startlist.csproj",
+        "projectUniqueName": "C:\\Users\\prasser\\Desktop\\Startliste\\Startliste\\Startlist.csproj",
         "projectName": "Startlist",
-        "projectPath": "C:\\Users\\FW\\Documents\\2020-2021\\GITHUB\\Startlist\\Startliste\\Startlist.csproj",
-        "packagesPath": "C:\\Users\\FW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FW\\Documents\\2020-2021\\GITHUB\\Startlist\\Startliste\\obj\\",
+        "projectPath": "C:\\Users\\prasser\\Desktop\\Startliste\\Startliste\\Startlist.csproj",
+        "packagesPath": "C:\\Users\\prasser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prasser\\Desktop\\Startliste\\Startliste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\FW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prasser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
