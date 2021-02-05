@@ -1,0 +1,4 @@
+C:\Users\FW\Documents\2020-2021\GITHUB\Startliste\Startliste\obj\Debug\netcoreapp3.1\Startlist.csprojAssemblyReference.cache
+C:\Users\FW\Documents\2020-2021\GITHUB\Startliste\Startliste\obj\Debug\netcoreapp3.1\Startlist.AssemblyInfoInputs.cache
+C:\Users\FW\Documents\2020-2021\GITHUB\Startliste\Startliste\obj\Debug\netcoreapp3.1\Startlist.AssemblyInfo.cs
+C:\Users\FW\Documents\2020-2021\GITHUB\Startliste\Startliste\obj\Debug\netcoreapp3.1\Startlist.csproj.CoreCompileInputs.cache
